@@ -1,1 +1,1 @@
-HTML for Abrar Rauf's Website
+Repository for my personal website.
